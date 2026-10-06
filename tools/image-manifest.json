@@ -1,0 +1,194 @@
+[
+  {
+    "local": "images/brand/favicon.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/cropped-logo光暈-270x270.png"
+  },
+  {
+    "local": "images/brand/logo-glow.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/logo光暈-300x300.png"
+  },
+  {
+    "local": "images/brand/logo-leaf.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/logo-leaf-new.png"
+  },
+  {
+    "local": "images/brand/plaque.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/cropped-掛牌-120x115.jpg"
+  },
+  {
+    "local": "images/brand/wordmark.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/cropped-工作區域-1.png"
+  },
+  {
+    "local": "images/contact/map.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/餐廳地圖-1024x721.jpeg"
+  },
+  {
+    "local": "images/home/hero-1.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/banner_0-1.jpg"
+  },
+  {
+    "local": "images/home/hero-2.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/20180105_phone4.jpg"
+  },
+  {
+    "local": "images/home/hero-3.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/20180105_phone4-2.jpg"
+  },
+  {
+    "local": "images/home/hero-4.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/180108_phone2-1.jpg"
+  },
+  {
+    "local": "images/home/story.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/餐廳簡介_品牌故事.jpeg"
+  },
+  {
+    "local": "images/home/vintage-car.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/06/20170225_113619-1024x546.jpg"
+  },
+  {
+    "local": "images/menus/buffet.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/歐式自助餐.png"
+  },
+  {
+    "local": "images/menus/order-menu.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2026/06/1EEEA697-0FDC-4E5C-B4A1-07E260DC8892-725x1024.png"
+  },
+  {
+    "local": "images/menus/set-menu.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/合菜菜單-723x1024.jpeg"
+  },
+  {
+    "local": "images/products/1001.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1001-原味猴頭菇【蛋素】400g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1002.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1002-麻油猴頭菇【蛋素】300g固狀物300g麻油高湯--300x300.jpeg"
+  },
+  {
+    "local": "images/products/1003.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/1547463325_thumb_630_843-300x300.jpg"
+  },
+  {
+    "local": "images/products/1004.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1004-素魚【蛋素】隻-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1005.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1005-東北蔬菜水餃【全素】包40顆-300x300.png"
+  },
+  {
+    "local": "images/products/1006.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1006-糖醋鱈魚【蛋素】盒10片-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1007.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1007-蒲燒素曼【全素】100元片-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1008.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1008-煙燻麵腸【全素】300g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1009.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1009-牛蒡貢丸【全素】600g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/1010.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1010-鐵路素排【蛋素】600g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2001.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2001-蔬菜包子【全素】包10粒-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2002.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2002-素若包【全素】包10粒-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2003.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2003素若粽【全素】40元粒、800元串20粒-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2004.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2004-大餛飩【全素】盒16顆-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2005.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2005-素若圓【全素】盒5粒-300x300.jpeg"
+  },
+  {
+    "local": "images/products/2006.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2006-豆包捲【全素】3條-300x300.jpeg"
+  },
+  {
+    "local": "images/products/3001.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.3001-蓮花干【全素】顆300g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/3002.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.3002-叉燒若【蛋素】180元600g-300x300.jpg"
+  },
+  {
+    "local": "images/products/4001.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.4001-香椿醬【全素】罐_0-300x300.jpeg"
+  },
+  {
+    "local": "images/products/5001.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.5001-藥膳火鍋湯底【全素】800cc-300x300.png"
+  },
+  {
+    "local": "images/products/5002.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.5002-藥膳猴頭菇火鍋湯底【蛋素】800cc-300x300.png"
+  },
+  {
+    "local": "images/products/ny-01.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.1-蒲燒素曼【全素】1片-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-02.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.2-白玉豆腦羹【全素】10人份-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-04.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.4-蓮花干拼盤【全素】個-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-06.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.6-煙鵝【全素】100條-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-07.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.7-鐵路素排【蛋素】600g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-08.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.8-糖醋鱈魚【蛋素】360盒10片-300x300.jpg"
+  },
+  {
+    "local": "images/products/ny-09.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.9-牛蒡丸【蛋素】600g-300x300.jpeg"
+  },
+  {
+    "local": "images/products/ny-10.gif",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/No.10-佛跳牆含甕【全素】請於取貨前7天訂購-300x300.gif"
+  },
+  {
+    "local": "images/products/pineapple-cake.jpeg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/台灣土鳳梨酥_2-300x300.jpeg"
+  },
+  {
+    "local": "images/volunteers/quality.png",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/1514429476-1.png"
+  },
+  {
+    "local": "images/volunteers/team.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/img_0885-1024x576.jpg"
+  },
+  {
+    "local": "images/volunteers/zongzi.jpg",
+    "remote": "https://www.godongcarrestaurant.com/wp-content/uploads/2024/05/da93d170-c180-406c-95ab-3c8a4ed361d9-1024x768.jpg"
+  }
+]
